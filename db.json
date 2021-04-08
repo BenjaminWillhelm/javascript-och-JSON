@@ -36,5 +36,8 @@
         "url": "https://github.com", 
         "img": "/img/prakticum-logo.png" 
     }
-  ]
+  ],
+    "posts": {
+        "post": "post"
+    }
 }

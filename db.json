@@ -1,8 +1,11 @@
 {
-  "people": [
+  "posts": [
     {
-      "id": 0,
-      "name": "Bosch"
+      "id": 1,
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
